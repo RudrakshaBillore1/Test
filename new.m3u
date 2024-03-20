@@ -220,7 +220,10 @@ https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
 #EXTINF:-1 tvg-chno="67643333" group-title="TESTING CHANNEL",Sony Pix HD
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
-
+#EXTINF:-1 tvg-logo="http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" tvg-chno="671111111" group-title="TESTING CHANNEL",Sony yay (Hindi)
+https://dai.google.com/ssai/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-YAY-New-Logo.png" tvg-chno="67555" group-title="TESTING CHANNEL",Sony yay HD 
+https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 
 
 
