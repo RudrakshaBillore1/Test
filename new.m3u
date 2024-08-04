@@ -107,6 +107,12 @@ https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 http://xtv.ooo:8080/live/Ali6677/112233/66176.m3u8
 #EXTINF:-1 group-title="Star Channels",STAR GOLD HD
 http://xtv.ooo:8080/live/Ali6677/112233/66177.m3u8
+#EXTINF:-1 tvg-chno="1" group-title="HINDI",STAR UTSAV MOVIES
+https://mrking.site/JIOTVSTALKER/stalker.m3u8?id=245
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="24" group-title="Star Channels" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" ,STAR Plus UK HD
