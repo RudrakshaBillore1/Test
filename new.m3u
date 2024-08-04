@@ -107,10 +107,11 @@ https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 http://xtv.ooo:8080/live/Ali6677/112233/66176.m3u8
 #EXTINF:-1 group-title="Star Channels",STAR GOLD HD
 http://xtv.ooo:8080/live/Ali6677/112233/66177.m3u8
-#EXTINF:-1 tvg-chno="1" group-title="HINDI",STAR UTSAV MOVIES
+#EXTINF:-1 tvg-chno="1" group-title="Star Channels",STAR UTSAV MOVIES
 https://mrking.site/JIOTVSTALKER/stalker.m3u8?id=245
 
-
+#EXTINF:-1 tvg-chno="1" group-title="Star Channels",STAR GOLD 2
+https://mrking.site/JIOTVSTALKER/stalker.m3u8?id=247
 
 
 
